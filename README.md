@@ -1,5 +1,5 @@
 <!-- Header -->
-![GithubBanner3](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![GithubBanner](https://user-images.githubusercontent.com/71526845/230649945-06af0c41-e7ef-4186-ac78-82729e334e9f.gif)
 <br><br>
 
 <h1 align="center">Hi 👋, I'm Muhammet Küdür</h1>
