@@ -1,6 +1,6 @@
 <!-- Header -->
 ![GithubBanner](https://user-images.githubusercontent.com/71526845/230649945-06af0c41-e7ef-4186-ac78-82729e334e9f.gif)
-<br><br>
+<br>
 
 <h1 align="center">Hi 👋, I'm Muhammet Küdür</h1>
 <h3 align="center">An Inquisitive Android Developer</h3>
